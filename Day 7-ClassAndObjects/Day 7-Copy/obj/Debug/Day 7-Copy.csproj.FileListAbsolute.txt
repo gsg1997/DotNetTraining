@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\Day 7-Copy\Day 7-Copy\bin\Debug\Day 7-Copy.exe.config
+C:\Users\Administrator\source\repos\Day 7-Copy\Day 7-Copy\bin\Debug\Day 7-Copy.exe
+C:\Users\Administrator\source\repos\Day 7-Copy\Day 7-Copy\bin\Debug\Day 7-Copy.pdb
+C:\Users\Administrator\source\repos\Day 7-Copy\Day 7-Copy\obj\Debug\Day 7-Copy.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Day 7-Copy\Day 7-Copy\obj\Debug\Day 7-Copy.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Day 7-Copy\Day 7-Copy\obj\Debug\Day 7-Copy.exe
+C:\Users\Administrator\source\repos\Day 7-Copy\Day 7-Copy\obj\Debug\Day 7-Copy.pdb
