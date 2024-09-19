@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\Milestone2\Milestone2\bin\Debug\Milestone2.exe.config
+C:\Users\Administrator\source\repos\Milestone2\Milestone2\bin\Debug\Milestone2.exe
+C:\Users\Administrator\source\repos\Milestone2\Milestone2\bin\Debug\Milestone2.pdb
+C:\Users\Administrator\source\repos\Milestone2\Milestone2\obj\Debug\Milestone2.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Milestone2\Milestone2\obj\Debug\Milestone2.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Milestone2\Milestone2\obj\Debug\Milestone2.exe
+C:\Users\Administrator\source\repos\Milestone2\Milestone2\obj\Debug\Milestone2.pdb
