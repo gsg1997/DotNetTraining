@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\MileStone1\MileStone1\bin\Debug\MileStone1.exe.config
+C:\Users\Administrator\source\repos\MileStone1\MileStone1\bin\Debug\MileStone1.exe
+C:\Users\Administrator\source\repos\MileStone1\MileStone1\bin\Debug\MileStone1.pdb
+C:\Users\Administrator\source\repos\MileStone1\MileStone1\obj\Debug\MileStone1.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\MileStone1\MileStone1\obj\Debug\MileStone1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\MileStone1\MileStone1\obj\Debug\MileStone1.exe
+C:\Users\Administrator\source\repos\MileStone1\MileStone1\obj\Debug\MileStone1.pdb
